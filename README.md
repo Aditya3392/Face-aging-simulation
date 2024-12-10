@@ -47,14 +47,6 @@ Both datasets include variations in facial poses, lighting conditions, and backg
 
 ---
 
-## **Evaluation Metrics**
-The model's performance is evaluated using:
-- **Identity Loss**: Ensures the retention of individual facial features.
-- **Realism Metrics**: Evaluates how closely the generated images resemble natural age-related changes.
-- **FID (Frechet Inception Distance)**: Assesses quality and diversity by comparing generated images to real data.
-- **Aging Accuracy**: Ensures transformations align with the target age.
-
----
 
 ## **Results**
 The project successfully generates age-transformed facial images with high realism and identity retention. Key observations include:
